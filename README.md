@@ -1,8 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `Music-Event`
 
-## Available Scripts
+This project shows the simple blog for the event program. It has animation with and responsive view.
 
-In the project directory, you can run:
+### `Project Setup`
+
+- Install the react environment in your system.
+``` markdown
+npm install -g create-react-app
+```
 
 ### `npm start`
 
