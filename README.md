@@ -18,3 +18,7 @@ Some of the key features implemented in this projects are:-
 - Integrated with [Material-UI](https://material-ui.com/).
 - Integrated [Navigation drawers](https://material-ui.com/demos/drawers/#drawer).
 - Integrated [App Bar](https://material-ui.com/demos/app-bar/#app-bar). 
+
+### `Hosted`
+
+- The [Heroku](https://www.heroku.com/) platform uses Git as the primary means for deploying applications.
