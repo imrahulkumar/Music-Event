@@ -23,7 +23,10 @@ Some of the key features implemented in this projects are:-
 - Integrated with [Material-UI](https://material-ui.com/).
 - Integrated [Navigation drawers](https://material-ui.com/demos/drawers/#drawer).
 - Integrated [App Bar](https://material-ui.com/demos/app-bar/#app-bar). 
+- Integrated [react-slick](https://github.com/akiran/react-slick).
+- Integrated [react-reveal](https://github.com/rnosov/react-reveal).
+- Integrated [react-scroll](https://github.com/fisshy/react-scroll).
 
 ### `Hosted`
 
-- The [Heroku](https://www.heroku.com/) platform uses Git as the primary means for deploying applications.
+- The [Surge](https://surge.sh/) platform uses Git as the primary means for deploying applications.
