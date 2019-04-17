@@ -44,3 +44,7 @@ npm run build
 ``` markdown
 surge -p build
 ```
+
+### Hosted Link
+
+[Music-Event-App-Link](http://abaft-push.surge.sh/)
