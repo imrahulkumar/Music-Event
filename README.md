@@ -30,3 +30,17 @@ Some of the key features implemented in this projects are:-
 ### `Hosted`
 
 - The [Surge](https://surge.sh/) platform uses Git as the primary means for deploying applications.
+
+### Step to host on Surge
+
+``` markdown
+npm install -g surge
+```
+- GO inside project directory
+
+``` markdown
+npm run build 
+```
+``` markdown
+surge -p build
+```
